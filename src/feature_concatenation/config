@@ -1,0 +1,15 @@
+comment_cnt
+user_age
+user_badge
+user_reputation
+user_user_interactions
+user_views
+user_votes
+user_expertise
+stopWord_cnt
+word_cnt
+tfidf_sum
+sentence_cnt
+sentence_avg_len
+
+
