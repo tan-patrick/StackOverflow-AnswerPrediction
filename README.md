@@ -1,5 +1,9 @@
 # UCLA 17S CS 249 Final Project 
 
+## Link to Data
+
+Data found from [Stack Exchange Data Dump](https://archive.org/details/stackexchange)
+
 ## Overall Framework 
 
 1. Feature Extraction
