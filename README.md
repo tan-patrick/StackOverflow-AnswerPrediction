@@ -1,6 +1,6 @@
 # UCLA 17S CS 249 Final Project 
 
-## Link to Data
+## Dataset
 
 Data found from [Stack Exchange Data Dump](https://archive.org/details/stackexchange)
 
