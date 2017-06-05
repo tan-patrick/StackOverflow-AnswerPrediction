@@ -20,6 +20,11 @@
 
 ## Instructions
 
+### Downloading Data
+
+* Download the data from [Stack Exchange Data Dump](https://archive.org/details/stackexchange)
+* Unzip folders to /raw folder
+
 ### Preprocessing
 ```bash
 cd src/preprocess
